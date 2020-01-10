@@ -5,4 +5,4 @@ In recognizing the utility of becoming more familiar with Bash Scripting, I crea
 
 #### Note:
 This folder might also contain some batch, powershell, and python scripting for Windows related automation
-_(Wish my work would use linux more :sad:)_
+_(Wish my work would use linux more :sad: )_
