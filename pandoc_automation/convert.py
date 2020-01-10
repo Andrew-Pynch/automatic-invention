@@ -1,8 +1,8 @@
 import os # To access folders, call scripts etc
 from subprocess import * # Run batch files and ps1 files
 
-path = 'C:\\Users\\apynch\\Documents\\GitHub\\PCT.Historical_Documentation\\PCT File Share Documentation\\docs'
-path_to_batch = 'C:\\Users\\apynch\\Documents\\GitHub\\PCT.Historical_Documentation\\PCT File Share Documentation\\docs\\convert.bat'
+path = 'REDACTED'
+path_to_batch = 'REDACTED'
 # Gets a list of all files within a path
 def get_files(path, file_type):
     # Instantiate list of files
