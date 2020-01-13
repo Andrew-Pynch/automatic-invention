@@ -1,3 +1,6 @@
+# Usage
+Please note that the update_git_repos.sh has more functionality than the windows variant. The linux variety will actually fetch all remotebranches and perform a pull for each branch in a repository! When I added this funcitonality the terminal visuals got messed up, but the script still works!
+
 # Windows Users
 1. Download **update_git_repos.ps1** & **run_update_git_repos.bat** 
 2. Place both files in the root of your Git directory
